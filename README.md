@@ -50,7 +50,7 @@ Contributions to the Snake Game are always welcome! If you find any bugs or have
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
 
 
 
