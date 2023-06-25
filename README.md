@@ -30,7 +30,7 @@ pip install turtle
 1. Install Python 3.x on your system.
 2. Clone the repository or download the source code.
 ``` 
-git clone ....
+https://github.com/showmen78/Snake-Game.git
 ```
 3. Open the terminal/command prompt and navigate to the project directory.
 4. Run the following command to start the game:
